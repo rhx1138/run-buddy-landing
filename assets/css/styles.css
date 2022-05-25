@@ -47,3 +47,9 @@ a {
     /* color: yellow; */
     text-decoration: none;
 }
+
+footer {
+  background: #fce138;
+  width: 100%;
+  padding: 40px 35px;
+}
