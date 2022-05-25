@@ -2,8 +2,33 @@
     margin: 0 auto;
 }
 
-.menu {
+body {
+    /* more on this crazy alphanumerical value in a minute! */
+    color: #39a6b2;
+    font-family: Helvetica, Arial, sans-serif;
+  }
+
+  header {
+    padding: 59px 35px;
+    padding-bottom: 70px;
+    
+    background-color: #39a6b2;
+  }
+
+  header h1 {
+    font-weight: bold;
+    font-size: 36px;
+    color: #fce138;
+    float: left;
+  }
+  
+  header a {
+    color: #fce138;
+  }
+
+nav {
     float: right;
+    
 }
 
 ul {
